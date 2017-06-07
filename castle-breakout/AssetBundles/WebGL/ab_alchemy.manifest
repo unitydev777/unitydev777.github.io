@@ -1,0 +1,102 @@
+ManifestFileVersion: 0
+CRC: 4227587207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b9ccfe127a8092af18f59151674ff20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2e58372cdbf66f59f307c777955c9b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acRedVialI.png
+- Assets/Castle Breakout/Audio/Comics/04 - Alchemy/acSegue03.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acDoorHandleV.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acVCTableRY.jpg
+- Assets/Castle Breakout/Audio/Comics/04 - Alchemy/acSegue02.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchVG.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acVCTableRYB.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchDHF.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_doorlatch3.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_doorlatch2.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_owlsound.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acDoorHandle.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchV.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acKnobGone.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acYellowVialI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/videos/acowlvial.mp4
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acChestO.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_drawerhandle.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acVCTable.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acDoorOpen.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acBArea.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acKnobPlaced.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/affirmation-4.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acPatchKnobGoneZoom2.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acVCTableR.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acPatchLatchInDrawer.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/videos/acowlvialgrasped.mp4
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acRecipeRoll.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/accycle01.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchVY.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acDoorHandleI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acChestWK.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acYRVialsGone.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acBAreaDH.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acChestE.jpg
+- Assets/Castle Breakout/Art/Comics/04 - Alchemy/acSegue04.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acBeakerBRI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acPatchKnobPlacedZoom2.png
+- Assets/Castle Breakout/Art/Comics/04 - Alchemy/acSegue03.jpg
+- Assets/Castle Breakout/Art/Comics/04 - Alchemy/acSegue02.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/affirmations-4.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acDoorHandleVY.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acBlueVialI.png
+- Assets/Castle Breakout/Art/Comics/04 - Alchemy/acSegue01.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/videos/acowlitch.mp4
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_mixedpotions.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acRecipeI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acKnobPlacedZoom.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_dooropen.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acBeakerYBI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_chestopening.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_opendrawer.mp3
+- Assets/Castle Breakout/Data/Comics/04 - Alchemy.asset
+- Assets/Castle Breakout/Audio/Comics/04 - Alchemy/acSegue01.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/videos/accycle01_v.mov
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acChestKeyI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acChest.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/items/acBeakerYRI.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acOwlRest.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchY.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_chestlatch.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchGY.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_scroll.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchVGY.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acRecipe.jpg
+- Assets/Castle Breakout/Art/Comics/04 - Alchemy/acSegue05.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acWorkBenchG.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acDoorHandleVYG.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/videos/acowlturn.mp4
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_testtube.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/patches/acPatchDrawerOpenZoom2.png
+- Assets/Castle Breakout/Art/Levels/Alchemy/images/acRoomEntry.jpg
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_owlitchwing.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_key.mp3
+- Assets/Castle Breakout/Art/Levels/Alchemy/sounds/CB_level1_doorlatch1.mp3
+Dependencies: []

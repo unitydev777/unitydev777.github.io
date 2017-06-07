@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 67591689
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cacfb4fe12c08a0e9c24dc8cbc40bbb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51f319c4d3f170c6261a8a68f6229c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue03B.jpg
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue08.jpg
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue06.jpg
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue03.jpg
+- Assets/Castle Breakout/Art/Levels/Dungeon/videos/dungeoncycle01.jpg
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue03.mp3
+- Assets/Castle Breakout/Art/Levels/Dungeon/affirmations-6.png
+- Assets/Castle Breakout/Art/Levels/Dungeon/affirmation-6.mp3
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue01.jpg
+- Assets/Castle Breakout/Data/Comics/06 - Dungeon.asset
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue07.jpg
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue05.mp3
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue04B.mp3
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue01.mp3
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue04.jpg
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue04B.jpg
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue07.mp3
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue03B.mp3
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue02.mp3
+- Assets/Castle Breakout/Audio/Comics/06 - Dungeon/dgSegue04.mp3
+- Assets/Castle Breakout/Art/Comics/06 - Dungeon/dgSegue02.jpg
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 3125456363
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ab_alchemy
+      Dependencies: {}
+    Info_1:
+      Name: ab_greathall
+      Dependencies: {}
+    Info_2:
+      Name: ab_kitchen
+      Dependencies: {}
+    Info_3:
+      Name: ab_armory
+      Dependencies: {}
+    Info_4:
+      Name: ab_chapel
+      Dependencies: {}
+    Info_5:
+      Name: ab_dungeon
+      Dependencies: {}
+    Info_6:
+      Name: ab_blacksmith
+      Dependencies: {}
+    Info_7:
+      Name: ab_courtyard
+      Dependencies: {}
+    Info_8:
+      Name: ab_bedroom
+      Dependencies: {}

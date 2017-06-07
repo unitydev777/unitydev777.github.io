@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 1763900540
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04599f84c4404e52b1135198908193f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2e58372cdbf66f59f307c777955c9b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghEDWK.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/patches/ghChairPatch.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/affirmations-3.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghR4.png
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue05.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/videos/ghgogkey.mp4
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue03.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level_6_keyOfffloor.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghEDO.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_stonebox.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/items/ghDHI.png
+- Assets/Castle Breakout/Data/Comics/02 - Great Hall.asset
+- Assets/Castle Breakout/Art/Levels/GreatHall/patches/ghDogKeyPatch.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_drawer.mp3
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue07.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghLMTC.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghCBPBOE.jpg
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue01.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH0.jpg
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue05.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghRoomEntry4.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghG1.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghWWTDO.jpg
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue02.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/items/ghTDHI.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghY1.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_doorhandle.mp3
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue02.mp3
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue09.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghR3.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_dogwaggingtail_key.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghY2.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/videos/ghdogsloop.mp4
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_turninggears1.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH0AC.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghY4.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_leverintogears.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_woodenchair.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDO.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/videos/ghdogs.mp4
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghG2.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghDogs.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghRoomExpanse.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghP4.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghCBPB.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_colorsquares.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_dogssleeping.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghED.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghLMTB.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_picturelifting.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghEDWHWK.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_keyindoor.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH2.jpg
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue03.mp3
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue04.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_dogwaggingtail.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghSR.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghMPBO.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghP1.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghR1.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghMPB.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_numbersonbox.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_turninggears2.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghG4.png
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue04.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghLMT.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_lever.mp3
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue08.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghEDWH.jpg
+- Assets/Castle Breakout/Audio/Comics/02 - Great Hall/ghSegue06.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghP2.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghR2.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghRoomEntry2.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghCBPBO.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghG3.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/items/ghCI.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghLMTCCT.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/items/ghKeyI.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH2AC.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghRoomEntry3.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH1.jpg
+- Assets/Castle Breakout/Art/Comics/02 - Great Hall/ghSegue01.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/affirmation-3.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghY3.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/sounds/CB_level6_door.mp3
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/puzzlebox/ghP3.png
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOWH1AC.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghLMTBE.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghRoomEntry1.jpg
+- Assets/Castle Breakout/Art/Levels/GreatHall/images/ghTDOAC.jpg
+Dependencies: []

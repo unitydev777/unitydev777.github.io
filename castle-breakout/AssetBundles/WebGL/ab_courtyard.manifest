@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1889913860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d892261dc0b40839f0d9b66ce0fa831
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51f319c4d3f170c6261a8a68f6229c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Comics/10 - Courtyard/cySegue01.jpg
+- Assets/Castle Breakout/Art/Levels/Courtyard/affirmation-10.mp3
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue01.mp3
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue05.mp3
+- Assets/Castle Breakout/Art/Comics/10 - Courtyard/cySegue02.jpg
+- Assets/Castle Breakout/Art/Comics/10 - Courtyard/cySegue04.jpg
+- Assets/Castle Breakout/Art/Levels/Courtyard/affirmations-10.png
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue03.mp3
+- Assets/Castle Breakout/Art/Levels/Courtyard/images/cyRoom3DC.jpg
+- Assets/Castle Breakout/Art/Comics/10 - Courtyard/cySegue03.jpg
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue02.mp3
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue06.mp3
+- Assets/Castle Breakout/Data/Comics/10 - Courtyard.asset
+- Assets/Castle Breakout/Audio/Comics/10 - Courtyard/cySegue04.mp3
+Dependencies: []

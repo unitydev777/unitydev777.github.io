@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 4033267041
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93f6b69e2a51860b73fb0b5858602748
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51f319c4d3f170c6261a8a68f6229c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue08.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/images/arTD.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCBC.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arWR.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arRK.jpg
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue01.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue07.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCBNoApples.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCB4Apples.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/items/arApple.png
+- Assets/Castle Breakout/Art/Levels/Armory/images/arWRH.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arWRPH.jpg
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue02.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue03.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCB1Apple.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue01.mp3
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue04.jpg
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue07.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arRoomEntry.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/items/arCI.png
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue10.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCB.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arTDZ.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCB2Apples.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue04.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/images/arWRP.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue06.mp3
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue02.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/images/arCB3Apples.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/items/arSI.png
+- Assets/Castle Breakout/Art/Levels/Armory/images/arWS.jpg
+- Assets/Castle Breakout/Art/Levels/Armory/images/arTDU.jpg
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue03.jpg
+- Assets/Castle Breakout/Data/Comics/05 - Armory.asset
+- Assets/Castle Breakout/Art/Levels/Armory/items/arKI.png
+- Assets/Castle Breakout/Art/Levels/Armory/items/arPI.png
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue09.mp3
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue11.jpg
+- Assets/Castle Breakout/Art/Comics/05 - Armory/arSegue09.jpg
+- Assets/Castle Breakout/Audio/Comics/05 - Armory/arSegue05.mp3
+- Assets/Castle Breakout/Art/Levels/Armory/items/arHI.png
+- Assets/Castle Breakout/Art/Levels/Armory/images/arDR.jpg
+Dependencies: []

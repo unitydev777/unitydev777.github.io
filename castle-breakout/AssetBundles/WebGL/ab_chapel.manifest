@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3705168943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c417ad928527343950c5bba988a6e2b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e51f319c4d3f170c6261a8a68f6229c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue06.jpg
+- Assets/Castle Breakout/Audio/Comics/09 - Chapel/chSegue02.mp3
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue04.jpg
+- Assets/Castle Breakout/Audio/Comics/09 - Chapel/chSegue03.mp3
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue01.jpg
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue02.jpg
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue03.jpg
+- Assets/Castle Breakout/Art/Comics/09 - Chapel/chSegue05.jpg
+- Assets/Castle Breakout/Art/Levels/Chapel/affirmations-9.png
+- Assets/Castle Breakout/Audio/Comics/09 - Chapel/chSegue04.mp3
+- Assets/Castle Breakout/Art/Levels/Chapel/images/chRoom1.jpg
+- Assets/Castle Breakout/Art/Levels/Chapel/affirmation-9.mp3
+- Assets/Castle Breakout/Audio/Comics/09 - Chapel/chSegue01.mp3
+- Assets/Castle Breakout/Data/Comics/09 - Chapel.asset
+Dependencies: []

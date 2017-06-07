@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 2635881123
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47c752504167e470a974e0e207224419
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e2e58372cdbf66f59f307c777955c9b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eddc670357a5c7a4f8c1909b3bc84e32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b99857053514d7340842da284a8e3282, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCDZ2.jpg
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue06.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpDO.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpKT.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_doorlock.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_door.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCDZ3.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_bagofgrain.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_catmouse.mp3
+- Assets/Castle Breakout/Data/Comics/03 - Kitchen.asset
+- Assets/Castle Breakout/Art/Levels/Kitchen/videos/kdproom2.mp4
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpKTCP.jpg
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue07.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_picturelifting2.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_chinaplateontoshelf.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBDO.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpKTCPZ.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBPS4.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBPS3.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBL.jpg
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue04.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_chinaplate.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpdh1I.png
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue05.jpg
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue02.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCL.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpRoom3.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_cupboardkey.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/affirmation-2.mp3
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue08.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpKTZ.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_lattle.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/patches/kdpLeft_button.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBLO.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_pepper.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPL.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCLUE.jpg
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue01.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_lattleintopot.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_cabinetopening.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpRoom2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_metaldishontoshelf.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBD2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpC.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBLOE.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/patches/kdpRight_button.png
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue04.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBDOE.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_cupboardlock.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpWPU.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_tomato.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpDT1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBD3.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCDZ1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBD1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/videos/kdproom1catmouse.mp4
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCDZ4.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_metaldish.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCB.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpdh2I.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_picturelifting1.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/patches/kdpPatchCabinetOpen.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ6.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBLK.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpp2I.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpDK.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpcbkI.png
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue01.mp3
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue06.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBVM.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCUZ2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ4.jpg
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue03.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/videos/kdproom1.mp4
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_drawerhandle.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_key.mp3
+- Assets/Castle Breakout/Art/Comics/03 - Kitchen/kdpSegue03.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpmdkI.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpWPUE.jpg
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue05.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/affirmations-2.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ5.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpDT2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpSP4.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpSP5.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCBV.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpCLU.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPR.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpKTZCP.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_cupboardopen.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpSP3.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/patches/kdpPatchPlateGone.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpSP1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpLI.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpRoom1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/items/kdpp1I.png
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBPS2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCUZ1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpSP2.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPLZ3.jpg
+- Assets/Castle Breakout/Audio/Comics/03 - Kitchen/kdpSegue02.mp3
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpD.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/images/kdpPCBPS1.jpg
+- Assets/Castle Breakout/Art/Levels/Kitchen/sounds/CB_level5_lattlescoopinghandle.mp3
+Dependencies: []
